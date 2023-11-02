@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="491" height="234" viewBox="0 0 491 234">
+  <defs>
+    <filter id="Rectangle_2" x="79" y="153" width="309" height="81" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_3" data-name="Group 3" transform="translate(0.069 -0.015)">
+    <g transform="matrix(1, 0, 0, 1, -0.07, 0.01)" filter="url(#Rectangle_2)">
+      <rect id="Rectangle_2-2" data-name="Rectangle 2" width="291" height="63" rx="31.5" transform="translate(88 159)" fill="#ba68c8"/>
+    </g>
+    <text id="Know_More_" data-name="Know More " transform="translate(149.931 201.015)" fill="#fff" font-size="29" font-family="ArialRoundedMTBold, Arial Rounded MT"><tspan x="0" y="0">Know More </tspan></text>
+    <text id="_Turning_Ideas_into_Digital_Realities_Crafting_Code_with_Innovation_and_Precision_Your_Success_Our_Commitment._" data-name="&quot;Turning Ideas into Digital Realities,
+ Crafting Code with Innovation and Precision,
+ Your Success, Our Commitment.&quot;" transform="translate(-0.069 26.015)" font-size="27" font-family="Calibri-Italic, Calibri" font-style="italic"><tspan x="0" y="0">&quot;Turning Ideas into Digital Realities,</tspan><tspan x="0" y="33" xml:space="preserve"> Crafting Code with Innovation and Precision,</tspan><tspan x="0" y="66" xml:space="preserve"> Your Success, Our Commitment.&quot;</tspan></text>
+  </g>
+</svg>

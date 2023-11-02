@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1266" height="91" viewBox="0 0 1266 91">
+  <defs>
+    <filter id="We_Are_the_Solution_for_your_Digital_Needs_" x="0" y="0" width="1266" height="91" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#cd9999" flood-opacity="0.569"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#We_Are_the_Solution_for_your_Digital_Needs_)">
+    <text id="We_Are_the_Solution_for_your_Digital_Needs_2" data-name="We Are the Solution for your Digital Needs " transform="translate(633 63)" fill="#d900ff" font-size="60" font-family="Calibri-BoldItalic, Calibri" font-weight="700" font-style="italic"><tspan x="-623.159" y="0">WE ARE THE SOLUTION FOR YOUR DIGITAL NEEDS </tspan></text>
+  </g>
+</svg>

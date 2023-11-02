@@ -1,26 +1,2 @@
-<mat-toolbar color="info">
-  <span>Next</span>
-  <div class="nav_space"></div>
-  <button mat-button routerLink="/home">Home</button>
-  <button mat-button routerLink="/about">About</button>
-  <button mat-button routerLink="/services">Services</button>
-  <button mat-button routerLink="/contact">Contact Us</button>
-</mat-toolbar>
-<br>
-<mat-card class="card">
-  <mat-card-header>
-    <mat-card-title></mat-card-title>
-    <mat-card-subtitle></mat-card-subtitle>
-  </mat-card-header>
-  <img alt="Next" class="img" src="../assets/booking.svg" style="height:250px;">
-  <mat-card-content>
-    <p>
-      Next info tech is a software company that provides software solutions to
-      its clients.
-    </p>
-  </mat-card-content>
-  <mat-card-actions style="align-items:center">
-    <div class="nav_space"></div>
-    <button mat-button color="primary">Contact Us</button>
-  </mat-card-actions>
-</mat-card>
+<app-navbar> </app-navbar>
+<router-outlet></router-outlet>

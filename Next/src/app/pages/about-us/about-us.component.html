@@ -1,0 +1,23 @@
+<div class="row mx-5">
+  <span> At <span class="highlighted-yellow">"Next" </span> , we pride ourselves on our exceptional team of six members,
+    each a market leader in their field.
+    With a blend of sharp skills, creative minds, and a passion for innovation, we're dedicated to turning your ideas
+    into reality. Your vision is our canvas, and our skilled team is here to make it happen. Together, we transcend
+    boundaries and create the extraordinary.
+  </span>
+</div>
+<div class="row">
+  <div *ngFor="let x of  developer_list" class="col-3 mx-2">
+    <div>
+      <div class="card appcolorsbg" style="width: 18rem; height:110%;">
+        <img class="card-img-top mt-3" [src]="x.imgurl" width="150px" height="150px" alt="Card image cap">
+        <div class="card-body mt-1">
+          <h5 class="card-title  text-center">{{x.name}}</h5>
+
+        </div>
+      </div>
+    </div>
+
+
+  </div>
+</div>
